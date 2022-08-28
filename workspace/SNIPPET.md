@@ -15,3 +15,12 @@
   - whiile
   - if
   - ifelse
+  - switch
+
+- ### プログラミング
+  - public_method
+  - private_method
+  - public_static_method
+  - private_static_method
+  - new
+  - prf ( **Private field** )

@@ -9,6 +9,7 @@
   - class 【 public class クラス名 】
   - main  【 public static void main(String[] args) 】
   - ctor  【 Public constructor 】
+  - hello-class ( 上記一括 )
 
 - ### 基本
   - sout ( System.out.println )

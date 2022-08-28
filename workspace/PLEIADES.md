@@ -10,7 +10,7 @@
     - ワークスペースディレクトリ\
     ![image](https://user-images.githubusercontent.com/1501327/187073226-7702d935-03c2-44a4-8d43-8844e300d038.png)
     - Window Builder インストール\
-    ![image](https://user-images.githubusercontent.com/1501327/187073324-caa4f595-848f-4d65-9924-9a4c116a9887.png)\n
+    ![image](https://user-images.githubusercontent.com/1501327/187073324-caa4f595-848f-4d65-9924-9a4c116a9887.png)<br>
     ```
     https://download.eclipse.org/windowbuilder/latest/
     ```

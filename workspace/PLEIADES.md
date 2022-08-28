@@ -12,7 +12,7 @@
     - Window Builder インストール\
     ![image](https://user-images.githubusercontent.com/1501327/187073324-caa4f595-848f-4d65-9924-9a4c116a9887.png)\
     ![image](https://user-images.githubusercontent.com/1501327/187073422-a0ee853e-df83-426c-a934-a0356905f6bd.png)
-    ```
-    https://download.eclipse.org/windowbuilder/latest/\
-    ```
+        ```
+        https://download.eclipse.org/windowbuilder/latest/
+        ```
 

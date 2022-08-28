@@ -26,3 +26,4 @@
   - private_static_method
   - new
   - prf ( **Private field** )
+  - try_catch

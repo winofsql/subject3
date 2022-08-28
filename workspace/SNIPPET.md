@@ -5,10 +5,12 @@
 - ### 拡張子が クラス名.java のファイルを作成
   - 例) Main.java
 
-- ### 基本
+- ### Java 枠組み
   - class 【 public class クラス名 】
   - main  【 public static void main(String[] args) 】
   - ctor  【 Public constructor 】
+  - 
+- ### 基本
   - sout ( System.out.println )
   - fori
   - foreach ( 拡張 for )

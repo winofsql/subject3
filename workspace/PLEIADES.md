@@ -9,8 +9,8 @@
     ![image](https://user-images.githubusercontent.com/1501327/187073143-6ab73d18-758b-437f-a9c8-69b5a4f06781.png)
     - ワークスペースディレクトリ\
     ![image](https://user-images.githubusercontent.com/1501327/187073226-7702d935-03c2-44a4-8d43-8844e300d038.png)
-    - Window Builder インストール\
-        - https://download.eclipse.org/windowbuilder/latest/
+    - Window Builder インストール
+        - https://download.eclipse.org/windowbuilder/latest/\
         ![image](https://user-images.githubusercontent.com/1501327/187073324-caa4f595-848f-4d65-9924-9a4c116a9887.png)\
         ![image](https://user-images.githubusercontent.com/1501327/187073422-a0ee853e-df83-426c-a934-a0356905f6bd.png)
 

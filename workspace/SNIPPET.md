@@ -31,3 +31,7 @@
 
 - ### プログラミング( ユーザ定義 )
   - array-new ( **データ型[] 配列変数名 = new データ型[配列数]** ) 
+  - sort-array
+  - sort-collection
+  - to-array ( **Collection => Array** )
+  - array-fixed-size-list ( **Array => Fixed Size Collection** )

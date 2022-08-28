@@ -9,7 +9,7 @@
   - class 【 public class クラス名 】
   - main  【 public static void main(String[] args) 】
   - ctor  【 Public constructor 】
-  - 
+
 - ### 基本
   - sout ( System.out.println )
   - fori

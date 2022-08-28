@@ -65,48 +65,6 @@
         ],
         "runTerminalCommand.commands": [
             {
-                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\setup-vscode-user.vbs && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\sworc-settings-download.vbs && exit",
-                "name": "📥 基本設定",
-                "auto": true,
-                "group": "🖐 設定"
-            },
-            {
-                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
-                "name": "💬 ワークスペース作成",
-                "auto": true,
-                "group": "🖐 設定"
-            },
-            {
-                "command": "if exist c:\\app\\workspace ( c: && cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit ) else ( c: && mkdir \\app\\workspace && cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit )",
-                "name": "🟥 SUBJECT 今日の日( app\\workspace に作成 )",
-                "auto": true,
-                "group": "🖐 設定"
-            },
-            {
-                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\build-xampp-alias.vbs && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/xampp-settings/raw/main .htaccess && exit",
-                "name": "💯 XAMPP Alias 設定",
-                "auto": true,
-                "group": "🖐 設定"
-            },
-            {
-                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\build-tomcat-path.vbs && cd WEB-INF\\classes\\lightbox && cmd /c comp.bat && exit",
-                "name": "🐱 TOMCAT PATH 作成",
-                "auto": true,
-                "group": "🖐 設定"
-            },
-            {
-                "command": "cd ..\\..\\ && git clone https://github.com/winofsql/subject.git && ren subject subject-main && cd subject-main && rmdir .git /S /Q && copy README.md zz-workspace && exit",
-                "name": "🟥 SUBJECT MAIN",
-                "auto": true,
-                "group": "🖐 設定"
-            },
-            {
-                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\git-clone.vbs && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
-                "name": "🔱 Your's GIT",
-                "auto": true,
-                "group": "🖐 設定"
-            },
-            {
                 "command": "mkdir ..\\java-basic-misc && cd ..\\java-basic-misc && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/subject-1014-java-basic-misc/raw/main Main.java Second.java Third.java && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
                 "name": "✅ java-基本部分",
                 "auto": true,
@@ -273,6 +231,48 @@
                 "name": "0909 java-hello-class",
                 "auto": true,
                 "group": "🟥 Java"
+            },
+            {
+                "command": "start chrome https://www.newtonsoft.com/json && exit",
+                "name": "【Json.NET】",
+                "auto": true,
+                "group": "────────────────────────────────────────────"
+            },
+            {
+                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs 3 && exit",
+                "name": "💬 ワークスペース( Java ) : 作成",
+                "auto": true,
+                "group": "🖐 設定"
+            },
+            {
+                "command": "if exist c:\\app\\workspace ( c: && cd \\app\\workspace && git clone https://github.com/winofsql/subject3.git && ren subject3 subject3-%date:~5,2%%date:~8,2% && cd subject3-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && Code lightbox.code-workspace && exit ) else ( c: && mkdir \\app\\workspace && cd \\app\\workspace && git clone https://github.com/winofsql/subject3.git && ren subject3 subject3-%date:~5,2%%date:~8,2% && cd subject3-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && Code lightbox.code-workspace && exit )",
+                "name": "🟥 SUBJECT3 ( Java ) 今日の日( app\\workspace に作成 )",
+                "auto": true,
+                "group": "🖐 設定"
+            },
+            {
+                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\build-xampp-alias.vbs && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/xampp-settings/raw/main .htaccess && exit",
+                "name": "💯 XAMPP Alias 設定",
+                "auto": true,
+                "group": "🖐 設定"
+            },
+            {
+                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\build-tomcat-path.vbs && cd WEB-INF\\classes\\lightbox && cmd /c comp.bat && exit",
+                "name": "🐱 TOMCAT PATH 作成",
+                "auto": true,
+                "group": "🖐 設定"
+            },
+            {
+                "command": "cd ..\\..\\ && git clone https://github.com/winofsql/subject.git && ren subject subject-main && cd subject-main && rmdir .git /S /Q && copy README.md zz-workspace && exit",
+                "name": "🟥 SUBJECT MAIN",
+                "auto": true,
+                "group": "🖐 設定"
+            },
+            {
+                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\git-clone.vbs && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs 2",
+                "name": "🔱 Your's GIT",
+                "auto": true,
+                "group": "🖐 設定"
             },
             {
                 "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\start-localhost.vbs && exit",

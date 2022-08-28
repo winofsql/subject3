@@ -28,3 +28,6 @@
   - new
   - prf ( **Private field** )
   - try_catch
+
+- ### プログラミング( ユーザ定義 )
+  - array-new ( **データ型[] 配列変数名 = new データ型[配列数]** ) 

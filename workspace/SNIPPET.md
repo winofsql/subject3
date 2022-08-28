@@ -35,3 +35,11 @@
   - sort-collection
   - to-array ( **Collection => Array** )
   - array-fixed-size-list ( **Array => Fixed Size Collection** )
+  - array-list
+  - str-format ( 文字列書式化 )
+  - map-foreach-getenv
+  - map-array-list-add-sort-getenv
+  - map-array-sort-getenv
+  - map-it-getenv
+  - file-in-csv
+  - mysql-select

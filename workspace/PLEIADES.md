@@ -17,3 +17,9 @@
         ```
 
 - ### ワークスペース設定
+
+
+
+- ### 設定引継ぎ
+    ![image](https://user-images.githubusercontent.com/1501327/188085364-bf17217e-4357-46fa-a0a4-2799d0bd9be8.png)
+ 

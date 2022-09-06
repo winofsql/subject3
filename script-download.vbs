@@ -31,7 +31,12 @@ Call lightbox_download( path_bat, "cs-subject2.bat", "https://github.com/winofsq
 Call lightbox_download( path_bat, "cs-subject3.bat", "https://github.com/winofsql/vscode-template/raw/main/bat/cs-subject3.bat" )
 Call lightbox_download( path_bat, "settings.bat", "https://github.com/winofsql/vscode-template/raw/main/bat/settings.bat" )
 
-ActionPath = "C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\sworc-settings-download.vbs"
+ActionPath = "C:\Users\%USERNAME%\AppData\Roaming\Code\User\bat\settings.bat"
+WshShell.Run(ActionPath)
+
+Call lightbox_download( path_base, "settings.json", "https://github.com/winofsql/vscode-template/raw/main/settings.json" )
+
+ActionPath = "C:\Users\%USERNAME%\AppData\Roaming\Code\User\script\sworc-settings-download.vbs"
 WshShell.Run(ActionPath)
 
 

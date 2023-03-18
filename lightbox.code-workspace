@@ -46,7 +46,7 @@
         },
         "[powershell]": {
             "files.encoding": "shiftjis"
-        },        "security.workspace.trust.enabled": false,
+        },
         "code-runner.executorMap": {
             "csv": "explorer",
             "javascript": "cscript //Nologo",

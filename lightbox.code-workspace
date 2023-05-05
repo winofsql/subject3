@@ -7,6 +7,7 @@
     "settings": {
         "-files.encoding": "shiftjis",
         "-editor.tabSize": 2,
+        "git.autoRepositoryDetection": false,
         "window.title": "${dirty}${activeEditorMedium}${separator}${rootPath}${separator}${rootName}",
         "editor.mouseWheelZoom": true,
         "editor.renderWhitespace": "all",

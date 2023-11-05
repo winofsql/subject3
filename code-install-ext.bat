@@ -1,5 +1,5 @@
 REM vscode > F1 > Configure Display Language
-echo vscode > F1 > Configure Display Language
+echo "vscode > F1 > Configure Display Language"
 
 cmd /c code --install-extension ms-ceintl.vscode-language-pack-ja  --force
 cmd /c code --install-extension adrianwilczynski.terminal-commands --force
@@ -17,3 +17,6 @@ cmd /c code --install-extension cweijan.vscode-mysql-client2 --force
 cmd /c code --install-extension pkief.material-icon-theme --force
 cmd /c code --install-extension adpyke.vscode-sql-formatter --force
 cmd /c code --install-extension serpen.vbsvscode --force
+cmd /c code --install-extension ms-python.python --force
+cmd /c code --install-extension esbenp.prettier-vscode --force
+cmd /c code --install-extension pdconsec.vscode-print --force

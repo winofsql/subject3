@@ -67,4 +67,5 @@
   ![image](https://github.com/winofsql/subject3/assets/1501327/3a028784-e578-4066-a79a-4220857005b9)
 
 - ### 実行
-  ![image](https://github.com/winofsql/subject3/assets/1501327/e6235f10-c759-4efd-8aac-3b3e1627d478)
+  ![image](https://github.com/winofsql/subject3/assets/1501327/4a3afc17-8e26-48ad-8266-6261d329d7c1)
+

@@ -63,3 +63,5 @@
 - ### 絶対レイアウト
   ![image](https://github.com/winofsql/subject3/assets/1501327/94784328-4b15-445c-9950-927c25bd305c)
 
+- ### コンポーネント
+  ![image](https://github.com/winofsql/subject3/assets/1501327/3a028784-e578-4066-a79a-4220857005b9)

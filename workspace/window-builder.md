@@ -8,3 +8,9 @@
 
 - ### その他
   ![image](https://github.com/winofsql/subject3/assets/1501327/c63218c7-4dec-4af7-9d38-2785d457862a)
+
+- ### JFrame クラス
+  ![image](https://github.com/winofsql/subject3/assets/1501327/fade1a69-2b5f-490b-92e0-3e038468bc27)
+
+  ![image](https://github.com/winofsql/subject3/assets/1501327/e46927ff-c65e-435b-8374-99d24238c07a)
+

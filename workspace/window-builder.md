@@ -59,3 +59,7 @@
 
 - ### デザイン
   ![image](https://github.com/winofsql/subject3/assets/1501327/b811f7bb-c2e4-4c16-8f3a-466ed714b19b)
+
+- ### 絶対レイアウト
+  ![image](https://github.com/winofsql/subject3/assets/1501327/94784328-4b15-445c-9950-927c25bd305c)
+

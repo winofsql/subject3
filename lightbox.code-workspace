@@ -238,6 +238,12 @@
                 "group": "🟥 Java"
             },
             {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/subject-231207.git && cd subject-231207 && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs 3",
+                "name": "🚀🐬🔴 MySQL,SQLite3,Access 社員マスタメンテ (2)",
+                "auto": true,
+                "group": "🟥 Java"
+            },
+            {
                 "command": "control.exe /name Microsoft.WindowsUpdate && exit",
                 "name": "──────────────────────────────────【WindowsUpdate】",
                 "auto": true,
